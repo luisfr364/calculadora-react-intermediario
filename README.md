@@ -4,8 +4,6 @@ Markdown
 
 # Aroma Up - Perfumaria de Luxo
 
-![Aroma Up Logo](https://i.imgur.com/v8p3xV5.png)
-
 ##  Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
