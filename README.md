@@ -11,10 +11,7 @@ Markdown
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Status do Projeto](#status-do-projeto)
 - [Funcionalidades](#funcionalidades)
-- [Demonstração](#demonstração)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Executar o Projeto](#como-executar-o-projeto)
-- [Autor](#autor)
 
 ---
 
