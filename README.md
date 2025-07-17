@@ -42,21 +42,6 @@ O desenvolvimento do projeto foi finalizado para a conclusão do curso de extens
 
 ---
 
-## 📸 Demonstração
-
-Aqui estão algumas capturas de tela da aplicação em funcionamento:
-
-**Página Inicial:**
-
-
-**Catálogo de Produtos:**
-
-
-**Página do Produto:**
-
-
----
-
 ## 💻 Tecnologias Utilizadas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
